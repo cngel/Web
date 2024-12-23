@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'NomeDaFonte';
+    src: url('static/PlaywriteBEVLG-Light.ttf') format('woff2'),
+         url('PlaywriteBEVLG-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
